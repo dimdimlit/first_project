@@ -1,0 +1,31 @@
+.divfirst_left{
+    margin-left: 100px;
+    background-color: #096552;
+    height: 60vh;
+    width: 50%;
+}
+.bt{
+    height: 45px;
+    border-radius: 30px;
+    width: 150px;
+    background-color: unset;
+    border-color: white;
+}
+.divfirst_right{
+    width: 50%;
+}
+input{
+    background-color: rgb(255, 255, 255);
+    border: none;
+    color: #5a6268;
+}
+.bn{
+    background-color: #42b18f;
+    height: 45px;
+    border-radius: 30px;
+    width: 150px;
+    color: #1b1e21;
+}
+.bb{
+    color: #1c7430;
+}
